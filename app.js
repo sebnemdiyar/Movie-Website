@@ -58,7 +58,7 @@ ${overview}
         </div>
         `
 
-   main.appendChild(mavieEl)     
+   main.appendChild(movieEl)     
   })
 }
 
